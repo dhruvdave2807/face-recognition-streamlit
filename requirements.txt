@@ -1,6 +1,7 @@
-streamlit
-face-recognition
-dlib-bin
-opencv-python
-Pillow
+streamlit==1.31.1
+opencv-python==4.8.1.78
 numpy<2.0
+Pillow
+face-recognition
+face-recognition-models
+dlib
