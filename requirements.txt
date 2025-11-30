@@ -1,0 +1,6 @@
+streamlit
+face-recognition
+dlib-bin
+opencv-python
+Pillow
+numpy<2.0
